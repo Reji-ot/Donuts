@@ -205,11 +205,12 @@ nav ul li a:hover {
 
 .stores-container {
   width: 90%;
-  height: 30vh;
+  height: 15vh;
   margin: 25px auto;
   display: flex;
   flex-direction: row;
-  text-align: center;
+  justify-content: center;
+  overflow-y: hidden;
 }
 
 .store-div {
