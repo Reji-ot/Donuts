@@ -67,6 +67,9 @@ nav ul li a:hover {
   margin: 50px 0px;
 }
 
+hr {
+  margin: 75px 0px;
+}
 .section-title {
   text-align: center;
   font-family: 'Poppins', sans-serif;
@@ -92,6 +95,7 @@ nav ul li a:hover {
 
 .left-box {
   width: 45%;
+  font-size: 1.25rem;
   text-align: justify;
   line-height: 2.2rem;
   letter-spacing: 0.8px;
